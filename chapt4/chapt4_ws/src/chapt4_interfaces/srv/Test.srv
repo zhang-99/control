@@ -1,0 +1,5 @@
+float32 goal
+float32 current
+---
+int8 state
+
