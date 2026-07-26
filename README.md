@@ -1,6 +1,5 @@
 # ROS 2机器人开发：从入门到实践 / ROS 2 Robot Development: From Beginner to Practice  
 书籍配套代码 / Book Companion Code
-
 ![](./image/book.jpg)
 
 ---
